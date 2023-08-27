@@ -1,0 +1,1 @@
+SELECT cast(avg(g.grade) as integer) as avg_grade from grades as g 
